@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Billy and I am a data scientist.
 
 ### More Information
 
